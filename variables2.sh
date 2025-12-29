@@ -1,10 +1,13 @@
 #! /bin/bash
 
 org="google"
+readonly org
 network="192.168.20.0/24"
 in="active"
 servercount="20"
 host="PARTHIBAN"
+
+org="amazon"
 echo "your organization name is $org"
 echo "your organization ID is $network"
 echo "Internet availablity is $in"
