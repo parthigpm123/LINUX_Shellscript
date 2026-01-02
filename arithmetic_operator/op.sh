@@ -1,3 +1,4 @@
+#! /bin/bash
 $ number="payilagam"
 [ec2-user@ip-172-31-31-131 ~]$ echo $number
 payilagam
